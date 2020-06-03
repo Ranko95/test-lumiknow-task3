@@ -4,7 +4,7 @@
 
 Дан макет карточки облигации:
 
-<img src="/readme-assets/screenshot.jpg" alt="image"/> <br>
+<img src="/readme-assets/screenshot.png" alt="image"/> <br>
 
 ## Задача
 
